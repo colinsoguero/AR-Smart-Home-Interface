@@ -15,7 +15,7 @@ I then used a relay attached to an extension cable to control the fan, but reall
 To allow for music playback in the scene, I used a processing script on my laptop which connected to Unity as a client and was able to playback selected files.
 ### Unity
 I wanted to create fun ways of interacting with the devices so I opted to use a bow and arrow mechanic to turn on the devices. Additionally, I added UIs to the controllers that allow users to choose the color of the light, turn off devices, and play music. I used basic cubes in the scene as virtual switches which are activated by the arrows. A basic interaction diagram can be seen below.
-![Interaction Diagram](https://user-images.githubusercontent.com/49736223/81878754-394fc580-9546-11ea-892f-c9416223f07e.png)
+![Interaction Diagram](https://user-images.githubusercontent.com/49736223/81879016-c3982980-9546-11ea-9d1e-3be6ad5bfeb1.png)
 
 Video Demo:
 https://vimeo.com/user103247757/review/418239148/111a8efa3f
